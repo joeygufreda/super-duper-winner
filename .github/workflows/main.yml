@@ -7,6 +7,7 @@ on:
 env:
   FUNC_APP_NAME: superduperwinnerfunctionapp
 
+jobs:
   build-and-deploy:
     runs-on: windows-latest
     
